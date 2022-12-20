@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace LogicalPrograms_Day6
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            Fibo.createFibo(5);
+        }
+    }
+}
 

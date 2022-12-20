@@ -1,0 +1,15 @@
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/bin/Debug/net7.0/LogicalPrograms_Day6
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/bin/Debug/net7.0/LogicalPrograms_Day6.deps.json
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/bin/Debug/net7.0/LogicalPrograms_Day6.runtimeconfig.json
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/bin/Debug/net7.0/LogicalPrograms_Day6.dll
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/bin/Debug/net7.0/LogicalPrograms_Day6.pdb
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.csproj.AssemblyReference.cache
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.AssemblyInfoInputs.cache
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.AssemblyInfo.cs
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.csproj.CoreCompileInputs.cache
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.dll
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/refint/LogicalPrograms_Day6.dll
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.pdb
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/LogicalPrograms_Day6.genruntimeconfig.cache
+/Users/shwetabodake/Projects/LogicalPrograms_Day6/LogicalPrograms_Day6/obj/Debug/net7.0/ref/LogicalPrograms_Day6.dll
