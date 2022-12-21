@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Fibo.createFibo(5);
+            //Fibo.createFibo(5);
+            PerfectNumber.DisplayPerfectNumber();
         }
     }
 }
