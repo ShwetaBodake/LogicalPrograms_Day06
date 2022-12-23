@@ -5,7 +5,15 @@
         public static void Main(string[] args)
         {
             //Fibo.createFibo(5);
-            PerfectNumber.DisplayPerfectNumber();
+            // PerfectNumber.DisplayPerfectNumber();
+            //PrimeNumber.CheckPrimeNumber();
+            //StopWatch.stopWatch();
+            // ReverseNumber.DisplayReverseNumber();
+
+           // CoupanNumber.Coupan();
+            PrimeNumber.PrimeNum();
+
+
         }
     }
 }
